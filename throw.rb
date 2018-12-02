@@ -5,7 +5,7 @@ class Throw < Formula
   desc "Example throw app"
   homepage "https://github.com/shifaz/homebrew-taps"
   url "http://brew.dc.mv/releases/throw-1.0.tar.gz"
-  sha256 "2a97b5ef116cfebd97aa6a59a3aeb021cdf1b0abbba481992181a81d45de5445"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   version "1.0"
   # depends_on "cmake" => :build
 
